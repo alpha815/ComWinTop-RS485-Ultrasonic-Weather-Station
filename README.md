@@ -14,8 +14,8 @@ This repository contains sample code for using the ComWImTop RS-485 mini weather
 3. Ensure the connections are as follows:
    - RS-485 A+ to RS-485 A+
    - RS-485 B- to RS-485 B-
-   - TTL RX to Arduino TX (e.g., GPIO_NUM_32)
-   - TTL TX to Arduino RX (e.g., GPIO_NUM_33)
+   - TTL RX to ESP32 TX (e.g., GPIO_NUM_32)
+   - TTL TX to ESP32 RX (e.g., GPIO_NUM_33)
    - Power and ground connections.
 
 ## Usage

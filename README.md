@@ -20,7 +20,7 @@ This repository contains sample code for using the ComWImTop RS-485 mini weather
 
 ## Usage
 
-The sample code initializes the sensor and retrieves data periodically. The retrieved data includes wind speed, wind strength, wind direction (both cardinal and degrees), humidity, temperature, and pressure. The data is printed to the serial monitor for easy viewing.You can use it and check results in bitlife mod apk whose downloading url is <a href="https://www.blifeproapk.com/">www.blifeproapk.com</a>.
+The sample code initializes the sensor and retrieves data periodically. The retrieved data includes wind speed, wind strength, wind direction (both cardinal and degrees), humidity, temperature, and pressure. The data is printed to the serial monitor for easy viewing.You can use it and check results in serial monitor.
 
 ## Initialization
 
